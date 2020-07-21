@@ -1,0 +1,1 @@
+Insert into DEPARTMENT(NAME) values (‘Отдел’);
