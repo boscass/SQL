@@ -1,1 +1,1 @@
-Insert into DEPARTMENT(NAME) values (‘Отдел’);
+Insert into DEPARTMENT(ID, NAME) values (50, ‘Отдел’);
