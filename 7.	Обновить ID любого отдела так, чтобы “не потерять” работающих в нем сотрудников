@@ -1,0 +1,2 @@
+Update DEPARTMENT set ID=73 where ID=3;
+Update EMPLOYEE set DEPARTMENT_ID=73 where DEPARTMENT_ID=3;
