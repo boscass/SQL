@@ -1,0 +1,3 @@
+Select NAME from EMPLOYEE
+Where SALARY=(Select max(SALARY) from EMPLOYEE)
+Group by NAME, DEPARTMENT_ID;
